@@ -1,5 +1,6 @@
 # credit-default-risk-analysis
 Credit default risk analysis using Python, Pandas, and Matplotlib to explore repayment patterns and customer default rates.
+
 How to Run:
 1. Download or open the notebook credit_default_risk_analysis.ipynb.
 2. Open it in Google Colab or Jupyter Notebook.
